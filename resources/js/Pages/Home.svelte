@@ -20,11 +20,7 @@
 </main>
 
 <style>
-    h1 {
-        color: #555;
-    }
-
-    nav {
-        margin: 20px 0;
+    main {
+        font-family: Arial, Helvetica, sans-serif;
     }
 </style>
